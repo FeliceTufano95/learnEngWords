@@ -2,12 +2,12 @@
     {
         "english": "to get around something",
         "italian": "evitare o fuggire da qualcosa",
-        "errors": 0
+        "errors": 1
     },
     {
         "english": "salty",
         "italian": "infastidito",
-        "errors": 1
+        "errors": 0
     },
     {
         "english": "crancky",
@@ -17,12 +17,12 @@
     {
         "english": "to take a dig",
         "italian": "lanciare una frecciatina",
-        "errors": 1
+        "errors": 0
     },
     {
         "english": "take a jab",
         "italian": "lanciare una bella frecciata",
-        "errors": 1
+        "errors": 0
     },
     {
         "english": "tissue",
@@ -42,7 +42,7 @@
     {
         "english": "a slacker",
         "italian": "un fannullone",
-        "errors": 1
+        "errors": 8
     },
     {
         "english": "a dumbass",
@@ -52,7 +52,7 @@
     {
         "english": "a whiner",
         "italian": "un piagnucolone",
-        "errors": 2
+        "errors": 0
     },
     {
         "english": "a cheapskate",
@@ -62,16 +62,16 @@
     {
         "english": "a freeloader",
         "italian": "uno scroccone",
-        "errors": 0
+        "errors": 2
     },
     {
         "english": "call of",
         "italian": "annullare, cancellare",
-        "errors": 0
+        "errors": 1
     },
     {
         "english": "let's face it",
-        "italian": "ammettiamolo, diciamoci la verit\u00e0",
+        "italian": "ammettiamolo, diciamoci la verità",
         "errors": 0
     },
     {
@@ -87,7 +87,7 @@
     {
         "english": "keen on",
         "italian": "essere interessati, appassionati a qualcosa",
-        "errors": 0
+        "errors": 5
     },
     {
         "english": "demanding",
@@ -97,7 +97,7 @@
     {
         "english": "get a grip",
         "italian": "controllarsi, riprendersi",
-        "errors": 0
+        "errors": 1
     },
     {
         "english": "have a blast",
@@ -112,7 +112,7 @@
     {
         "english": "beware",
         "italian": "fare attenzione a qualcosa",
-        "errors": 1
+        "errors": 0
     },
     {
         "english": "floppy",
@@ -127,17 +127,17 @@
     {
         "english": "furry",
         "italian": "peloso",
-        "errors": 1
+        "errors": 0
     },
     {
         "english": "make up",
         "italian": "fare pace",
-        "errors": 0
+        "errors": 2
     },
     {
         "english": "seat belt",
         "italian": "cintura di sicurezza",
-        "errors": 1
+        "errors": 0
     },
     {
         "english": "the steering wheel",
@@ -161,7 +161,7 @@
     },
     {
         "english": "grow out of",
-        "italian": "smettere di comportarsi in un modo perch\u00e8 si cresce",
+        "italian": "smettere di comportarsi in un modo perchè si cresce",
         "errors": 0
     },
     {
@@ -182,12 +182,12 @@
     {
         "english": "mole",
         "italian": "talpa, infiltrato",
-        "errors": 1
+        "errors": 0
     },
     {
         "english": "slippers",
         "italian": "pantofole",
-        "errors": 1
+        "errors": 0
     },
     {
         "english": "socket",
@@ -197,7 +197,7 @@
     {
         "english": "hairdryer",
         "italian": "asciugacapelli",
-        "errors": 1
+        "errors": 0
     },
     {
         "english": "keep it one hundred",
@@ -207,17 +207,17 @@
     {
         "english": "paint the town red",
         "italian": "scatenarsi",
-        "errors": 1
+        "errors": 0
     },
     {
         "english": "to take off",
         "italian": "avere successo improvviso, andare via velocemente, spogliarsi",
-        "errors": 0
+        "errors": 1
     },
     {
         "english": "to take to",
         "italian": "quacosa inizia a piacerti",
-        "errors": 2
+        "errors": 1
     },
     {
         "english": "to take in",
@@ -232,12 +232,12 @@
     {
         "english": "drop by",
         "italian": "passare, fare un salto",
-        "errors": 1
+        "errors": 0
     },
     {
         "english": "get out of",
         "italian": "evitare",
-        "errors": 0
+        "errors": 6
     },
     {
         "english": "pass out",
@@ -252,17 +252,17 @@
     {
         "english": "get across",
         "italian": "far capire, trasmettere",
-        "errors": 0
+        "errors": 1
     },
     {
         "english": "easygoing",
         "italian": "alla mano",
-        "errors": 1
+        "errors": 0
     },
     {
         "english": "witty",
         "italian": "spiritoso",
-        "errors": 2
+        "errors": 0
     },
     {
         "english": "bold",
@@ -277,7 +277,7 @@
     {
         "english": "considerate",
         "italian": "rispettoso",
-        "errors": 0
+        "errors": 5
     },
     {
         "english": "principled",
@@ -296,13 +296,13 @@
     },
     {
         "english": "narrow-minded",
-        "italian": "di mentalit\u00e0 ristretta",
+        "italian": "di mentalità ristretta",
         "errors": 0
     },
     {
         "english": "judgmental",
         "italian": "giudicante",
-        "errors": 1
+        "errors": 0
     },
     {
         "english": "bossy",
@@ -321,8 +321,8 @@
     },
     {
         "english": "obnoxious",
-        "italian": "insopportabile",
-        "errors": 0
+        "italian": "insopportabile, odioso",
+        "errors": 6
     },
     {
         "english": "vindictive",
@@ -332,7 +332,7 @@
     {
         "english": "deceitful",
         "italian": "subdolo",
-        "errors": 1
+        "errors": 12
     },
     {
         "english": "hypocrital",
@@ -342,7 +342,7 @@
     {
         "english": "temperamental",
         "italian": "irascibile",
-        "errors": 0
+        "errors": 1
     },
     {
         "english": "it's worth doing it",
@@ -352,7 +352,7 @@
     {
         "english": "to bound to",
         "italian": "essere destinato",
-        "errors": 0
+        "errors": 1
     },
     {
         "english": "slim",
@@ -377,7 +377,7 @@
     {
         "english": "chubby",
         "italian": "paffuto",
-        "errors": 2
+        "errors": 3
     },
     {
         "english": "stocky",
@@ -387,7 +387,7 @@
     {
         "english": "pale",
         "italian": "pallido",
-        "errors": 1
+        "errors": 0
     },
     {
         "english": "tanned",
@@ -397,37 +397,37 @@
     {
         "english": "freckless",
         "italian": "lentiggini",
-        "errors": 1
+        "errors": 11
     },
     {
         "english": "wrinkles",
         "italian": "rughe",
-        "errors": 0
+        "errors": 5
     },
     {
         "english": "dimples",
         "italian": "fossette",
-        "errors": 1
+        "errors": 9
     },
     {
         "english": "curly",
         "italian": "ricci",
-        "errors": 1
+        "errors": 0
     },
     {
         "english": "straight",
         "italian": "lisci",
-        "errors": 0
+        "errors": 1
     },
     {
         "english": "dyed hair",
         "italian": "capelli tinti",
-        "errors": 1
+        "errors": 0
     },
     {
         "english": "thick hair",
         "italian": "capelli folti",
-        "errors": 1
+        "errors": 0
     },
     {
         "english": "thin hair",
@@ -437,7 +437,7 @@
     {
         "english": "fringe/bangs",
         "italian": "frangia",
-        "errors": 1
+        "errors": 0
     },
     {
         "english": "make room for me",
@@ -447,7 +447,7 @@
     {
         "english": "be tipsy",
         "italian": "essere brilli",
-        "errors": 1
+        "errors": 0
     },
     {
         "english": "to creep",
@@ -467,22 +467,22 @@
     {
         "english": "don't fail me now",
         "italian": "non tradirmi proprio adesso",
-        "errors": 1
+        "errors": 0
     },
     {
         "english": "alongside",
         "italian": "insieme",
-        "errors": 0
+        "errors": 1
     },
     {
         "english": "the bumpiness of something",
-        "italian": "l'instabilit\u00e0 di qualcosa (relazione)",
-        "errors": 1
+        "italian": "l'instabilità di qualcosa (relazione)",
+        "errors": 0
     },
     {
         "english": "to pull along",
         "italian": "far avanzare una trama",
-        "errors": 1
+        "errors": 0
     },
     {
         "english": "as if I go",
@@ -517,7 +517,7 @@
     {
         "english": "keep up",
         "italian": "non restare indietro",
-        "errors": 0
+        "errors": 1
     },
     {
         "english": "cut me down",
@@ -532,7 +532,7 @@
     {
         "english": "eyelids",
         "italian": "palpebre",
-        "errors": 2
+        "errors": 0
     },
     {
         "english": "curtains",
@@ -542,12 +542,12 @@
     {
         "english": "to rage",
         "italian": "infuriarsi",
-        "errors": 0
+        "errors": 2
     },
     {
         "english": "to smirk",
         "italian": "sorridere di compiacimento",
-        "errors": 1
+        "errors": 0
     },
     {
         "english": "pacing up and down",
@@ -561,8 +561,8 @@
     },
     {
         "english": "from beyond the grave",
-        "italian": "dall'aldil\u00e0",
-        "errors": 1
+        "italian": "dall'aldilà",
+        "errors": 0
     },
     {
         "english": "chin",
@@ -572,7 +572,7 @@
     {
         "english": "to tousle",
         "italian": "spettinare",
-        "errors": 2
+        "errors": 0
     },
     {
         "english": "out of all",
@@ -582,7 +582,7 @@
     {
         "english": "sheepish",
         "italian": "timido",
-        "errors": 1
+        "errors": 0
     },
     {
         "english": "knukle",
@@ -592,27 +592,27 @@
     {
         "english": "to pound",
         "italian": "battere (cuore)",
-        "errors": 0
+        "errors": 1
     },
     {
         "english": "fleeting",
         "italian": "fugace",
-        "errors": 0
+        "errors": 11
     },
     {
         "english": "gruelling",
         "italian": "estenuante",
-        "errors": 1
+        "errors": 5
     },
     {
         "english": "to tease out",
         "italian": "tirare fuori informazioni",
-        "errors": 0
+        "errors": 3
     },
     {
         "english": "daunting",
         "italian": "intimidatorio",
-        "errors": 0
+        "errors": 3
     },
     {
         "english": "overnight success",
@@ -622,17 +622,17 @@
     {
         "english": "jump at chance",
         "italian": "prendere al volo un'occasione",
-        "errors": 1
+        "errors": 0
     },
     {
         "english": "stand a chance",
-        "italian": "avere una possibilit\u00e0",
-        "errors": 1
+        "italian": "avere una possibilità",
+        "errors": 0
     },
     {
         "english": "might as well do",
         "italian": "fare qualcosa visto che non ci sono alternative, tanto oramai",
-        "errors": 1
+        "errors": 0
     },
     {
         "english": "rear-view mirror",
@@ -652,12 +652,12 @@
     {
         "english": "stir",
         "italian": "girare quando metti lo zucchero",
-        "errors": 0
+        "errors": 7
     },
     {
         "english": "all along",
         "italian": "fin dall'inizio",
-        "errors": 0
+        "errors": 9
     },
     {
         "english": "withdraw",
@@ -676,7 +676,202 @@
     },
     {
         "english": "we are apart",
-        "italian": "siamo separati, non stiamo pi\u00f9 insieme",
+        "italian": "siamo separati, non stiamo più insieme",
         "errors": 0
+    },
+    {
+        "english": "still",
+        "italian": "senza vento",
+        "errors": 4
+    },
+    {
+        "english": "to greet",
+        "italian": "salutare, accogliere",
+        "errors": 2
+    },
+    {
+        "english": "upwards",
+        "italian": "verso l'alto, all'insù",
+        "errors": 2
+    },
+    {
+        "english": "altogheter",
+        "italian": "nel complesso, complessivamente",
+        "errors": 7
+    },
+    {
+        "english": "wildness",
+        "italian": "selvaticità",
+        "errors": 1
+    },
+    {
+        "english": "pile up",
+        "italian": "ammucchiare, raccogliere tutto insieme",
+        "errors": 4
+    },
+    {
+        "english": "slender",
+        "italian": "snello",
+        "errors": 5
+    },
+    {
+        "english": "in fairness",
+        "italian": "con tutta franchezza",
+        "errors": 0
+    },
+    {
+        "english": "turn yourself in",
+        "italian": "costituisciti",
+        "errors": 0
+    },
+    {
+        "english": "you are onto me",
+        "italian": "mi hai scoperto",
+        "errors": 0
+    },
+    {
+        "english": "foresee",
+        "italian": "prevedere",
+        "errors": 0
+    },
+    {
+        "english": "out of cuorisity/out of interest",
+        "italian": "per cuoristà",
+        "errors": 0
+    },
+    {
+        "english": "call it quit",
+        "italian": "give up",
+        "errors": 0
+    },
+    {
+        "english": "starving",
+        "italian": "affamato",
+        "errors": 3
+    },
+    {
+        "english": "eager",
+        "italian": "entuasiasmo, impazienza",
+        "errors": 10
+    },
+    {
+        "english": "pale into",
+        "italian": "scomparire",
+        "errors": 5
+    },
+    {
+        "english": "I am sworn to",
+        "italian": "ho giurato di",
+        "errors": 1
+    },
+    {
+        "english": "sleepy",
+        "italian": "assonnato",
+        "errors": 1
+    },
+    {
+        "english": "yawn",
+        "italian": "sbadiglio",
+        "errors": 2
+    },
+    {
+        "english": "quilt",
+        "italian": "copriletto",
+        "errors": 3
+    },
+    {
+        "english": "seep out",
+        "italian": "fuoriuscire, colare",
+        "errors": 7
+    },
+    {
+        "english": "turn away",
+        "italian": "girarsi",
+        "errors": 1
+    },
+    {
+        "english": "purchase",
+        "italian": "acquistare",
+        "errors": 0
+    },
+    {
+        "english": "pastry",
+        "italian": "pasticcino",
+        "errors": 0
+    },
+    {
+        "english": "underneath",
+        "italian": "sotto qualcosa",
+        "errors": 4
+    },
+    {
+        "english": "kneel down",
+        "italian": "inginocchiarsi",
+        "errors": 1
+    },
+    {
+        "english": "summon up",
+        "italian": "tirare fuori (coraggio, energia)",
+        "errors": 8
+    },
+    {
+        "english": "melting",
+        "italian": "scioglimento (ghiaccio)",
+        "errors": 4
+    },
+    {
+        "english": "be blown away",
+        "italian": "essere a bocca aperta",
+        "errors": 2
+    },
+    {
+        "english": "utterly",
+        "italian": "completamente, del tutto",
+        "errors": 4
+    },
+    {
+        "english": "rise (rose) the challenge",
+        "italian": "affrontare una sfida",
+        "errors": 1
+    },
+    {
+        "english": "I die on a hill",
+        "italian": "sono disposto a giurarci",
+        "errors": 0
+    },
+    {
+        "english": "walk off",
+        "italian": "andaresene, allontanarsi",
+        "errors": 1
+    },
+    {
+        "english": "elbow",
+        "italian": "gomito",
+        "errors": 0
+    },
+    {
+        "english": "whimper",
+        "italian": "piagnucolare, gemere",
+        "errors": 2
+    },
+    {
+        "english": "kick out",
+        "italian": "cacciare",
+        "errors": 1
+    },
+    {
+        "english": "fall for",
+        "italian": "cascarci",
+        "errors": 0
+    },
+    {
+        "english": "to pour",
+        "italian": "versare (drink)",
+        "errors": 1
+    },
+    {
+        "english": "steamed over",
+        "italian": "appannato (vetro)",
+        "errors": 1
     }
 ]
