@@ -4,6 +4,1462 @@
         "prepositions": [
             "from"
         ],
-        "errors": 2
+        "errors": 0
+    },
+    {
+        "word": "account",
+        "prepositions": [
+            "for"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "accuse sb",
+        "prepositions": [
+            "of"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "adjcent",
+        "prepositions": [
+            "to"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "abstain",
+        "prepositions": [
+            "from"
+        ],
+        "errors": 1
+    },
+    {
+        "word": "acquainted",
+        "prepositions": [
+            "with"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "advice",
+        "prepositions": [
+            "on"
+        ],
+        "errors": 1
+    },
+    {
+        "word": "advise",
+        "prepositions": [
+            "on"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "afraid",
+        "prepositions": [
+            "of"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "agree",
+        "prepositions": [
+            "with sb",
+            "on something"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "aim",
+        "prepositions": [
+            "to"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "allergic",
+        "prepositions": [
+            "to"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "amazed",
+        "prepositions": [
+            "at/by"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "amount",
+        "prepositions": [
+            "to"
+        ],
+        "errors": 1
+    },
+    {
+        "word": "amused",
+        "prepositions": [
+            "at/by"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "angry",
+        "prepositions": [
+            "at",
+            "with sb"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "annoyed",
+        "prepositions": [
+            "with sb"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "answer",
+        "prepositions": [
+            "to"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "anxious",
+        "prepositions": [
+            "about"
+        ],
+        "errors": 1
+    },
+    {
+        "word": "apologise",
+        "prepositions": [
+            "to sb"
+        ],
+        "errors": 1
+    },
+    {
+        "word": "apologise",
+        "prepositions": [
+            "to somebody"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "appeal",
+        "prepositions": [
+            "against",
+            "to"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "apply",
+        "prepositions": [
+            "to somebody",
+            "for something"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "argue",
+        "prepositions": [
+            "with sb",
+            "about sth"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "arrest",
+        "prepositions": [
+            "sb for smth"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "ashamed",
+        "prepositions": [
+            "of"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "ask",
+        "prepositions": [
+            "for"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "astonished",
+        "prepositions": [
+            "at",
+            "by"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "attend",
+        "prepositions": [
+            "to"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "aware",
+        "prepositions": [
+            "of"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "bad",
+        "prepositions": [
+            "at smth",
+            "to sb"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "balance",
+        "prepositions": [
+            "between"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "ban",
+        "prepositions": [
+            "on"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "base",
+        "prepositions": [
+            "on"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "bear",
+        "prepositions": [
+            "with"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "begin",
+        "prepositions": [
+            "with"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "believe",
+        "prepositions": [
+            "in"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "belong",
+        "prepositions": [
+            "to"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "benefit",
+        "prepositions": [
+            "from",
+            "of"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "bet",
+        "prepositions": [
+            "on"
+        ],
+        "errors": 1
+    },
+    {
+        "word": "beware",
+        "prepositions": [
+            "of"
+        ],
+        "errors": 1
+    },
+    {
+        "word": "put the blame",
+        "prepositions": [
+            "on sb"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "blame",
+        "prepositions": [
+            "sb for sth",
+            "sth on sb"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "boast",
+        "prepositions": [
+            "about",
+            "of"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "bored",
+        "prepositions": [
+            "with",
+            "of"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "borrow",
+        "prepositions": [
+            "from sb"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "brialliant",
+        "prepositions": [
+            "at"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "busy",
+        "prepositions": [
+            "with"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "capable",
+        "prepositions": [
+            "of"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "capacity",
+        "prepositions": [
+            "of"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "care",
+        "prepositions": [
+            "about",
+            "for"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "careful",
+        "prepositions": [
+            "of"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "careless",
+        "prepositions": [
+            "about",
+            "with"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "cause",
+        "prepositions": [
+            "of"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "certain",
+        "prepositions": [
+            "of"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "charge",
+        "prepositions": [
+            "for sth"
+        ],
+        "errors": 1
+    },
+    {
+        "word": "cheque",
+        "prepositions": [
+            "for"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "choice",
+        "prepositions": [
+            "in",
+            "between",
+            "of"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "cite",
+        "prepositions": [
+            "as"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "clash",
+        "prepositions": [
+            "over"
+        ],
+        "errors": 1
+    },
+    {
+        "word": "clever",
+        "prepositions": [
+            "at",
+            "of"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "close",
+        "prepositions": [
+            "to"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "coincide",
+        "prepositions": [
+            "with"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "collide",
+        "prepositions": [
+            "with"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "combine",
+        "prepositions": [
+            "with"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "comment",
+        "prepositions": [
+            "on"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "commit",
+        "prepositions": [
+            "to"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "communicate",
+        "prepositions": [
+            "with"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "compare",
+        "prepositions": [
+            "with",
+            "to"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "complain",
+        "prepositions": [
+            "of",
+            "to sb"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "compliment sb",
+        "prepositions": [
+            "on"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "comply",
+        "prepositions": [
+            "with"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "concentrate",
+        "prepositions": [
+            "on"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "concern",
+        "prepositions": [
+            "about"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "have confidence",
+        "prepositions": [
+            "in"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "congratulate sb",
+        "prepositions": [
+            "on sth"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "connect",
+        "prepositions": [
+            "to",
+            "with"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "conscious",
+        "prepositions": [
+            "of"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "consist",
+        "prepositions": [
+            "of"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "contact",
+        "prepositions": [
+            "between"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "content",
+        "prepositions": [
+            "with"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "contrary",
+        "prepositions": [
+            "to"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "contribute",
+        "prepositions": [
+            "to"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "convert",
+        "prepositions": [
+            "to",
+            "into"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "cope",
+        "prepositions": [
+            "with"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "correspond",
+        "prepositions": [
+            "to",
+            "with"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "crash",
+        "prepositions": [
+            "into"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "crazy",
+        "prepositions": [
+            "about"
+        ],
+        "errors": 1
+    },
+    {
+        "word": "crowded",
+        "prepositions": [
+            "with"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "cruel",
+        "prepositions": [
+            "to"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "cure",
+        "prepositions": [
+            "for"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "curious",
+        "prepositions": [
+            "about"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "deaf",
+        "prepositions": [
+            "to",
+            "in"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "deal",
+        "prepositions": [
+            "with"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "dear",
+        "prepositions": [
+            "to"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "decide",
+        "prepositions": [
+            "on",
+            "against"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "decline",
+        "prepositions": [
+            "in",
+            "to"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "decrease",
+        "prepositions": [
+            "in"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "dedicarw",
+        "prepositions": [
+            "to"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "deficient",
+        "prepositions": [
+            "in"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "delight",
+        "prepositions": [
+            "in"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "delighted",
+        "prepositions": [
+            "with"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "demand",
+        "prepositions": [
+            "for",
+            "from"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "depart",
+        "prepositions": [
+            "from"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "departure",
+        "prepositions": [
+            "from"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "depend",
+        "prepositions": [
+            "on",
+            "upon"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "describe sth",
+        "prepositions": [
+            "to sb"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "description",
+        "prepositions": [
+            "of"
+        ],
+        "errors": 1
+    },
+    {
+        "word": "die",
+        "prepositions": [
+            "of",
+            "from",
+            "in"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "differ",
+        "prepositions": [
+            "from"
+        ],
+        "errors": 1
+    },
+    {
+        "word": "difference",
+        "prepositions": [
+            "between",
+            "of"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "different",
+        "prepositions": [
+            "from"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "difficulty",
+        "prepositions": [
+            "in",
+            "with"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "disdvantage",
+        "prepositions": [
+            "of"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "disagree",
+        "prepositions": [
+            "with"
+        ],
+        "errors": 1
+    },
+    {
+        "word": "date back",
+        "prepositions": [
+            "to"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "disappointed",
+        "prepositions": [
+            "with",
+            "about"
+        ],
+        "errors": 1
+    },
+    {
+        "word": "disapprove",
+        "prepositions": [
+            "of"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "discourage",
+        "prepositions": [
+            "from"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "discussion",
+        "prepositions": [
+            "about",
+            "on"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "dismiss",
+        "prepositions": [
+            "from"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "dissatisfied",
+        "prepositions": [
+            "with"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "distinguish",
+        "prepositions": [
+            "between"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "dream",
+        "prepositions": [
+            "of"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "dressed",
+        "prepositions": [
+            "in"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "drink",
+        "prepositions": [
+            "in"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "eager",
+        "prepositions": [
+            "for"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "put effort",
+        "prepositions": [
+            "into"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "emphasis",
+        "prepositions": [
+            "on"
+        ],
+        "errors": 1
+    },
+    {
+        "word": "engaged",
+        "prepositions": [
+            "in sth",
+            "to sb"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "enthusiastic",
+        "prepositions": [
+            "about"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "equal",
+        "prepositions": [
+            "to"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "escape",
+        "prepositions": [
+            "from"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "example",
+        "prepositions": [
+            "of"
+        ],
+        "errors": 1
+    },
+    {
+        "word": "excellent",
+        "prepositions": [
+            "at"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "exception",
+        "prepositions": [
+            "to"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "make an exception",
+        "prepositions": [
+            "of sth/sb"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "excited",
+        "prepositions": [
+            "about"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "excuse",
+        "prepositions": [
+            "for"
+        ],
+        "errors": 1
+    },
+    {
+        "word": "expel",
+        "prepositions": [
+            "from"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "experienced",
+        "prepositions": [
+            "in"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "experiment",
+        "prepositions": [
+            "on",
+            "with"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "expert",
+        "prepositions": [
+            "in",
+            "at",
+            "on, with sth"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "failure",
+        "prepositions": [
+            "in"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "faithful",
+        "prepositions": [
+            "to"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "familiar",
+        "prepositions": [
+            "to sb",
+            "with"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "famous",
+        "prepositions": [
+            "for"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "fed up",
+        "prepositions": [
+            "with"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "fond",
+        "prepositions": [
+            "of"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "forget",
+        "prepositions": [
+            "about"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "forgive",
+        "prepositions": [
+            "for"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "frightened",
+        "prepositions": [
+            "of"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "full",
+        "prepositions": [
+            "of"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "furios",
+        "prepositions": [
+            "with sb about sth"
+        ],
+        "errors": 1
+    },
+    {
+        "word": "genius",
+        "prepositions": [
+            "at"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "glance",
+        "prepositions": [
+            "at"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "glare",
+        "prepositions": [
+            "at"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "good",
+        "prepositions": [
+            "at",
+            "to, for"
+        ],
+        "errors": 1
+    },
+    {
+        "word": "grateful",
+        "prepositions": [
+            "to sb for sth"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "grow",
+        "prepositions": [
+            "in"
+        ],
+        "errors": 1
+    },
+    {
+        "word": "guilty",
+        "prepositions": [
+            "of"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "happen",
+        "prepositions": [
+            "to"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "happy",
+        "prepositions": [
+            "about",
+            "with"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "hear",
+        "prepositions": [
+            "about",
+            "from",
+            "of"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "hope",
+        "prepositions": [
+            "for",
+            "of"
+        ],
+        "errors": 1
+    },
+    {
+        "word": "hopeless",
+        "prepositions": [
+            "at"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "idea",
+        "prepositions": [
+            "of"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "identical",
+        "prepositions": [
+            "to"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "ill",
+        "prepositions": [
+            "with"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "impact",
+        "prepositions": [
+            "on"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "impressed",
+        "prepositions": [
+            "by",
+            "with"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "include",
+        "prepositions": [
+            "in"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "increase",
+        "prepositions": [
+            "in"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "indifferent",
+        "prepositions": [
+            "to"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "information",
+        "prepositions": [
+            "on",
+            "about"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "insist",
+        "prepositions": [
+            "on"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "intent",
+        "prepositions": [
+            "on sth"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "have no intention",
+        "prepositions": [
+            "of"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "interest",
+        "prepositions": [
+            "in"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "interfere",
+        "prepositions": [
+            "with",
+            "in"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "inundate",
+        "prepositions": [
+            "with"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "invest",
+        "prepositions": [
+            "in"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "invitation",
+        "prepositions": [
+            "to"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "invite sb",
+        "prepositions": [
+            "to"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "involve",
+        "prepositions": [
+            "in"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "jealous",
+        "prepositions": [
+            "of"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "join up",
+        "prepositions": [
+            "with"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "knock",
+        "prepositions": [
+            "at",
+            "on"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "know",
+        "prepositions": [
+            "about",
+            "of"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "kind",
+        "prepositions": [
+            "to"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "key",
+        "prepositions": [
+            "to"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "knowledge",
+        "prepositions": [
+            "of"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "be lacking",
+        "prepositions": [
+            "in"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "lack",
+        "prepositions": [
+            "of"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "laugh",
+        "prepositions": [
+            "at"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "listen",
+        "prepositions": [
+            "to"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "look",
+        "prepositions": [
+            "at"
+        ],
+        "errors": 1
+    },
+    {
+        "word": "occour",
+        "prepositions": [
+            "to"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "operate",
+        "prepositions": [
+            "on"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "opinion",
+        "prepositions": [
+            "on",
+            "of"
+        ],
+        "errors": 1
+    },
+    {
+        "word": "pleasant",
+        "prepositions": [
+            "to"
+        ],
+        "errors": 0
+    },
+    {
+        "word": "point",
+        "prepositions": [
+            "at",
+            "to"
+        ],
+        "errors": 0
     }
 ]

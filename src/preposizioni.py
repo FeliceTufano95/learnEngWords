@@ -195,13 +195,14 @@ def quiz_preposizioni():
     for i, p in enumerate(selezionate, 1):
         risposta = input(f"{i}. '{p['word']}' -> ti ricordi la preposizione? (s/n): ").strip().lower()
 
-        if risposta == "s":
+        if risposta == "n":
+            print(f"soluzioni ---> {', '.join(p['prepositions'])}")
+            p["errors"] += 1
+        else:
             print("Perfetto, passiamo alla prossima.")
             if p["errors"] > 0:
                 p["errors"] -= 1
-        else:
-            print(f"Preposizione/i corretta/e: {', '.join(p['prepositions'])}")
-            p["errors"] += 1
+            
 
     salva_preposizioni()
 
