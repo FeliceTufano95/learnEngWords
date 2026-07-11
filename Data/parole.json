@@ -368,5 +368,60 @@
         "english": "to be up for something",
         "italian": "avere voglia di qualcosa",
         "errors": 0
+    },
+    {
+        "english": "zebra crossing",
+        "italian": "strisce pedonali",
+        "errors": 0
+    },
+    {
+        "english": "gate",
+        "italian": "cancello",
+        "errors": 0
+    },
+    {
+        "english": "lamppost",
+        "italian": "lampione",
+        "errors": 0
+    },
+    {
+        "english": "snore",
+        "italian": "russare",
+        "errors": 0
+    },
+    {
+        "english": "hiccup",
+        "italian": "singhiozzo",
+        "errors": 0
+    },
+    {
+        "english": "pout",
+        "italian": "broncio",
+        "errors": 0
+    },
+    {
+        "english": "moldy",
+        "italian": "ammuffito",
+        "errors": 0
+    },
+    {
+        "english": "rotten",
+        "italian": "marcio",
+        "errors": 0
+    },
+    {
+        "english": "wilted",
+        "italian": "appassito",
+        "errors": 0
+    },
+    {
+        "english": "globebox",
+        "italian": "cruscotto",
+        "errors": 1
+    },
+    {
+        "english": "handbreak",
+        "italian": "freno a mano",
+        "errors": 0
     }
 ]
