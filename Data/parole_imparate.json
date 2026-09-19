@@ -3126,5 +3126,465 @@
     {
         "english": "crancky",
         "italian": "scontroso"
+    },
+    {
+        "english": "rip off",
+        "italian": "spennare, fregare"
+    },
+    {
+        "english": "hook up",
+        "italian": "mettere insieme"
+    },
+    {
+        "english": "it serves you right",
+        "italian": "ben ti sta (for lying to me)"
+    },
+    {
+        "english": "sour",
+        "italian": "aspro"
+    },
+    {
+        "english": "hammer",
+        "italian": "martello"
+    },
+    {
+        "english": "stop doing",
+        "italian": "smettere un'azione"
+    },
+    {
+        "english": "stop to do",
+        "italian": "fermare una cosa per iniziarne un'altra"
+    },
+    {
+        "english": "forget doing",
+        "italian": "dimenticare di aver fatto"
+    },
+    {
+        "english": "forget to do",
+        "italian": "dimenticare di fare qualcosa"
+    },
+    {
+        "english": "go over",
+        "italian": "rivedere, esaminare"
+    },
+    {
+        "english": "look into",
+        "italian": "analizzare, approfondire"
+    },
+    {
+        "english": "swuimsuit (bathing suit U.S.)",
+        "italian": "costume da bagno"
+    },
+    {
+        "english": "trunks",
+        "italian": "costume a pantaloncino"
+    },
+    {
+        "english": "make a fool of yourself",
+        "italian": "fare una figuraccia"
+    },
+    {
+        "english": "suit yourself",
+        "italian": "fai come ti pare"
+    },
+    {
+        "english": "to sit on your hands",
+        "italian": "stare con le mani in mano"
+    },
+    {
+        "english": "boredom",
+        "italian": "noia"
+    },
+    {
+        "english": "wisdom",
+        "italian": "saggezza"
+    },
+    {
+        "english": "be entranced with",
+        "italian": "essere incantato da"
+    },
+    {
+        "english": "be drawn to",
+        "italian": "essere attratto da"
+    },
+    {
+        "english": "to yield",
+        "italian": "produrre, dare come risultato"
+    },
+    {
+        "english": "lush",
+        "italian": "verdeggiante, rigoglioso (vegetazione)"
+    },
+    {
+        "english": "at most/ tops",
+        "italian": "al massimo"
+    },
+    {
+        "english": "dowry",
+        "italian": "dote nuziale"
+    },
+    {
+        "english": "get wasted",
+        "italian": "ubriacarsi pesantemente"
+    },
+    {
+        "english": "renoveting",
+        "italian": "ristrutturare"
+    },
+    {
+        "english": "hook up with someone",
+        "italian": "avere una storia, andare a letto"
+    },
+    {
+        "english": "hit on someone",
+        "italian": "provarci"
+    },
+    {
+        "english": "sleep it off",
+        "italian": "dormirci sopra"
+    },
+    {
+        "english": "string someone along",
+        "italian": "tenere qualcuno legato, illuderlo"
+    },
+    {
+        "english": "frisky",
+        "italian": "vivace"
+    },
+    {
+        "english": "charming",
+        "italian": "affascinante, incantevole"
+    },
+    {
+        "english": "to tear (pronunciato con e)",
+        "italian": "strappare"
+    },
+    {
+        "english": "tearing up (pronuncia con e)",
+        "italian": "strappare un foglio"
+    },
+    {
+        "english": "bun / roll",
+        "italian": "rosetta"
+    },
+    {
+        "english": "flour",
+        "italian": "farina"
+    },
+    {
+        "english": "seafood",
+        "italian": "frutti di mare, crostacei"
+    },
+    {
+        "english": "shallow",
+        "italian": "poco profonda"
+    },
+    {
+        "english": "wide",
+        "italian": "ampio, spazioso"
+    },
+    {
+        "english": "narrow",
+        "italian": "stretto, limitato"
+    },
+    {
+        "english": "smooth",
+        "italian": "liscio, regolare"
+    },
+    {
+        "english": "rough",
+        "italian": "ruvido"
+    },
+    {
+        "english": "trolley",
+        "italian": "carello della spesa"
+    },
+    {
+        "english": "suitcase",
+        "italian": "valigia grande"
+    },
+    {
+        "english": "cabin bag (hand luggage)",
+        "italian": "bagaglio più piccolo"
+    },
+    {
+        "english": "backpack",
+        "italian": "zaino"
+    },
+    {
+        "english": "scar",
+        "italian": "cicatrice"
+    },
+    {
+        "english": "livid",
+        "italian": "arrabbiato"
+    },
+    {
+        "english": "to be into something",
+        "italian": "essere interessato a qualcosa"
+    },
+    {
+        "english": "to be down for something",
+        "italian": "essere d'accordo su qualcosa"
+    },
+    {
+        "english": "zebra crossing",
+        "italian": "strisce pedonali"
+    },
+    {
+        "english": "gate",
+        "italian": "cancello"
+    },
+    {
+        "english": "lamppost",
+        "italian": "lampione"
+    },
+    {
+        "english": "snore",
+        "italian": "russare"
+    },
+    {
+        "english": "hiccup",
+        "italian": "singhiozzo"
+    },
+    {
+        "english": "pout",
+        "italian": "broncio"
+    },
+    {
+        "english": "moldy",
+        "italian": "ammuffito"
+    },
+    {
+        "english": "rotten",
+        "italian": "marcio"
+    },
+    {
+        "english": "wilted",
+        "italian": "appassito"
+    },
+    {
+        "english": "globebox",
+        "italian": "cruscotto"
+    },
+    {
+        "english": "handbreak",
+        "italian": "freno a mano"
+    },
+    {
+        "english": "harsh",
+        "italian": "severo, serio (pensa da condannare)"
+    },
+    {
+        "english": "clothes hanger",
+        "italian": "stampella per i panni"
+    },
+    {
+        "english": "zipper",
+        "italian": "cerniera"
+    },
+    {
+        "english": "plain",
+        "italian": "basico, o in bianco (pasta)"
+    },
+    {
+        "english": "showerhead",
+        "italian": "sifone doccia"
+    },
+    {
+        "english": "bathtub",
+        "italian": "vasca da bagno"
+    },
+    {
+        "english": "botton up",
+        "italian": "abbottonare"
+    },
+    {
+        "english": "prescription",
+        "italian": "ricetta medica"
+    },
+    {
+        "english": "invoice",
+        "italian": "fattura"
+    },
+    {
+        "english": "relinquish",
+        "italian": "rinunciare, abbandonare"
+    },
+    {
+        "english": "buttery",
+        "italian": "burroso"
+    },
+    {
+        "english": "sponge",
+        "italian": "spugna"
+    },
+    {
+        "english": "tying",
+        "italian": "legare"
+    },
+    {
+        "english": "shoelaces",
+        "italian": "lacci scarpe"
+    },
+    {
+        "english": "roll up (sleeve)",
+        "italian": "fare le pieghe alle maniche"
+    },
+    {
+        "english": "uneasy",
+        "italian": "a disagio"
+    },
+    {
+        "english": "to play dumb",
+        "italian": "fare il finto tonto"
+    },
+    {
+        "english": "salty",
+        "italian": "infastidito"
+    },
+    {
+        "english": "fleeting",
+        "italian": "fugace"
+    },
+    {
+        "english": "gruelling",
+        "italian": "estenuante"
+    },
+    {
+        "english": "daunting",
+        "italian": "intimidatorio"
+    },
+    {
+        "english": "get away with",
+        "italian": "passarla liscia"
+    },
+    {
+        "english": "pipe down",
+        "italian": "stare zitti, abbassare la voce"
+    },
+    {
+        "english": "overthrow",
+        "italian": "rovesciare/deporre (impero)"
+    },
+    {
+        "english": "shovel",
+        "italian": "pala"
+    },
+    {
+        "english": "axe",
+        "italian": "ascia"
+    },
+    {
+        "english": "hand in",
+        "italian": "consegnare, presentare"
+    },
+    {
+        "english": "to spring (sprung)",
+        "italian": "scaturire, spuntare"
+    },
+    {
+        "english": "bruise",
+        "italian": "livido"
+    },
+    {
+        "english": "steep",
+        "italian": "ripida (salita)"
+    },
+    {
+        "english": "dustpan",
+        "italian": "paletta (scopa)"
+    },
+    {
+        "english": "drop someone off at place",
+        "italian": "accompagare qualcuno in quel posto"
+    },
+    {
+        "english": "to drop off",
+        "italian": "addormentarsi"
+    },
+    {
+        "english": "go off",
+        "italian": "suonare (allarme)"
+    },
+    {
+        "english": "dim",
+        "italian": "offuscato"
+    },
+    {
+        "english": "to nail",
+        "italian": "inchiodare"
+    },
+    {
+        "english": "screwdriver",
+        "italian": "giravite"
+    },
+    {
+        "english": "to screw",
+        "italian": "avvitare"
+    },
+    {
+        "english": "to be up to something",
+        "italian": "stare facendo qualcosa"
+    },
+    {
+        "english": "to be off something",
+        "italian": "avere smesso, non volere più"
+    },
+    {
+        "english": "to be out of something",
+        "italian": "non avere qualcosa"
+    },
+    {
+        "english": "to be up for something",
+        "italian": "avere voglia di qualcosa"
+    },
+    {
+        "english": "tidy",
+        "italian": "ordinato"
+    },
+    {
+        "english": "to mop down",
+        "italian": "pulire il tavolo di bar"
+    },
+    {
+        "english": "odd",
+        "italian": "strana"
+    },
+    {
+        "english": "I beg to differ",
+        "italian": "mi permetto di dissentire"
+    },
+    {
+        "english": "being into the swing of things",
+        "italian": "entrare nel ritmo, iniziare a carburare"
+    },
+    {
+        "english": "put away",
+        "italian": "mettere via, riporre"
+    },
+    {
+        "english": "put back",
+        "italian": "rimettere al suo posto"
+    },
+    {
+        "english": "I am feeling dizzy",
+        "italian": "mi gira la testa"
+    },
+    {
+        "english": "to be regarded as",
+        "italian": "essere considerato come"
+    },
+    {
+        "english": "to opt",
+        "italian": "optare"
+    },
+    {
+        "english": "talkative",
+        "italian": "loquace"
+    },
+    {
+        "english": "mischievous",
+        "italian": "dispettoso"
     }
 ]

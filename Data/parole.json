@@ -2,11 +2,6 @@
     {
         "english": "to get around something",
         "italian": "evitare o fuggire da qualcosa",
-        "errors": 1
-    },
-    {
-        "english": "salty",
-        "italian": "infastidito",
         "errors": 0
     },
     {
@@ -15,88 +10,8 @@
         "errors": 0
     },
     {
-        "english": "fleeting",
-        "italian": "fugace",
-        "errors": 1
-    },
-    {
-        "english": "gruelling",
-        "italian": "estenuante",
-        "errors": 0
-    },
-    {
-        "english": "daunting",
-        "italian": "intimidatorio",
-        "errors": 0
-    },
-    {
-        "english": "get away with",
-        "italian": "passarla liscia",
-        "errors": 0
-    },
-    {
-        "english": "rip off",
-        "italian": "spennare, fregare",
-        "errors": 0
-    },
-    {
-        "english": "hook up",
-        "italian": "mettere insieme",
-        "errors": 0
-    },
-    {
-        "english": "pipe down",
-        "italian": "stare zitti, abbassare la voce",
-        "errors": 0
-    },
-    {
-        "english": "it serves you right",
-        "italian": "ben ti sta (for lying to me)",
-        "errors": 0
-    },
-    {
-        "english": "sour",
-        "italian": "aspro",
-        "errors": 0
-    },
-    {
         "english": "cradle",
         "italian": "culla",
-        "errors": 0
-    },
-    {
-        "english": "overthrow",
-        "italian": "rovesciare/deporre (impero)",
-        "errors": 0
-    },
-    {
-        "english": "hammer",
-        "italian": "martello",
-        "errors": 0
-    },
-    {
-        "english": "to nail",
-        "italian": "inchiodare",
-        "errors": 0
-    },
-    {
-        "english": "shovel",
-        "italian": "pala",
-        "errors": 0
-    },
-    {
-        "english": "axe",
-        "italian": "ascia",
-        "errors": 0
-    },
-    {
-        "english": "screwdriver",
-        "italian": "giravite",
-        "errors": 0
-    },
-    {
-        "english": "to screw",
-        "italian": "avvitare",
         "errors": 0
     },
     {
@@ -110,318 +25,303 @@
         "errors": 0
     },
     {
-        "english": "stop doing",
-        "italian": "smettere un'azione",
+        "english": "to play it cool",
+        "italian": "fare il disinvolto",
         "errors": 0
     },
     {
-        "english": "stop to do",
-        "italian": "fermare una cosa per iniziarne un'altra",
+        "english": "to play hard to get",
+        "italian": "farsi desiderare, fare il difficile",
         "errors": 0
     },
     {
-        "english": "forget doing",
-        "italian": "dimenticare di aver fatto",
+        "english": "to play it safe",
+        "italian": "non rischiare",
         "errors": 0
     },
     {
-        "english": "forget to do",
-        "italian": "dimenticare di fare qualcosa",
+        "english": "creased",
+        "italian": "maltrattata, stropicciata",
         "errors": 0
     },
     {
-        "english": "hand in",
-        "italian": "consegnare, presentare",
+        "english": "muggy",
+        "italian": "afoso",
         "errors": 0
     },
     {
-        "english": "go over",
-        "italian": "rivedere, esaminare",
+        "english": "sticky",
+        "italian": "appiccicoso, sudaticcio",
         "errors": 0
     },
     {
-        "english": "look into",
-        "italian": "analizzare, approfondire",
-        "errors": 1
-    },
-    {
-        "english": "swuimsuit (bathing suit U.S.)",
-        "italian": "costume da bagno",
+        "english": "neat",
+        "italian": "pulita",
         "errors": 0
     },
     {
-        "english": "trunks",
-        "italian": "costume a pantaloncino",
+        "english": "take after",
+        "italian": "assomigliare a un familiare",
         "errors": 0
     },
     {
-        "english": "make a fool of yourself",
-        "italian": "fare una figuraccia",
+        "english": "take apart",
+        "italian": "smontare, separare in pezzi",
         "errors": 0
     },
     {
-        "english": "suit yourself",
-        "italian": "fai come ti pare",
+        "english": "match",
+        "italian": "fiammifero",
         "errors": 0
     },
     {
-        "english": "to sit on your hands",
-        "italian": "stare con le mani in mano",
+        "english": "fan",
+        "italian": "ventilatore",
         "errors": 0
     },
     {
-        "english": "boredom",
-        "italian": "noia",
+        "english": "sensitive",
+        "italian": "sensibile",
         "errors": 0
     },
     {
-        "english": "wisdom",
-        "italian": "saggezza",
+        "english": "welcoming",
+        "italian": "accogliente",
         "errors": 0
     },
     {
-        "english": "to spring (sprung)",
-        "italian": "scaturire, spuntare",
+        "english": "tablecloth",
+        "italian": "tovaglia",
         "errors": 0
     },
     {
-        "english": "be entranced with",
-        "italian": "essere incantato da",
+        "english": "jar",
+        "italian": "barattolo",
         "errors": 0
     },
     {
-        "english": "be drawn to",
-        "italian": "essere attratto da",
+        "english": "can / tin",
+        "italian": "lattina",
         "errors": 0
     },
     {
-        "english": "to yield",
-        "italian": "produrre, dare come risultato",
-        "errors": 1
-    },
-    {
-        "english": "lush",
-        "italian": "verdeggiante, rigoglioso (vegetazione)",
+        "english": "cork",
+        "italian": "tappo di sughero",
         "errors": 0
     },
     {
-        "english": "at most/ tops",
-        "italian": "al massimo",
+        "english": "lid",
+        "italian": "coperchio",
         "errors": 0
     },
     {
-        "english": "dowry",
-        "italian": "dote nuziale",
+        "english": "toothpick",
+        "italian": "stuzzicadenti",
         "errors": 0
     },
     {
-        "english": "get wasted",
-        "italian": "ubriacarsi pesantemente",
+        "english": "salt shaker",
+        "italian": "saliera",
         "errors": 0
     },
     {
-        "english": "renoveting",
-        "italian": "ristrutturare",
+        "english": "serve",
+        "italian": "servire",
         "errors": 0
     },
     {
-        "english": "hook up with someone",
-        "italian": "avere una storia, andare a letto",
+        "english": "to slice",
+        "italian": "affettare",
         "errors": 0
     },
     {
-        "english": "hit on someone",
-        "italian": "provarci",
+        "english": "to spread",
+        "italian": "spalmare",
         "errors": 0
     },
     {
-        "english": "sleep it off",
-        "italian": "dormirci sopra",
+        "english": "to dip",
+        "italian": "intingere",
         "errors": 0
     },
     {
-        "english": "string someone along",
-        "italian": "tenere qualcuno legato, illuderlo",
+        "english": "vinegar",
+        "italian": "aceto",
         "errors": 0
     },
     {
-        "english": "frisky",
-        "italian": "vivace",
+        "english": "dressing",
+        "italian": "condimento",
         "errors": 0
     },
     {
-        "english": "charming",
-        "italian": "affascinante, incantevole",
+        "english": "basil",
+        "italian": "basilico",
         "errors": 0
     },
     {
-        "english": "to tear (pronunciato con e)",
-        "italian": "strappare",
+        "english": "parsley",
+        "italian": "prezzemolo",
         "errors": 0
     },
     {
-        "english": "tearing up (pronuncia con e)",
-        "italian": "strappare un foglio",
+        "english": "rosemary",
+        "italian": "rosmarino",
         "errors": 0
     },
     {
-        "english": "bun / roll",
-        "italian": "rosetta",
+        "english": "breadcrumbs",
+        "italian": "pangrattato",
         "errors": 0
     },
     {
-        "english": "flour",
-        "italian": "farina",
+        "english": "wheat",
+        "italian": "grano",
         "errors": 0
     },
     {
-        "english": "seafood",
-        "italian": "frutti di mare, crostacei",
+        "english": "corn",
+        "italian": "mais",
         "errors": 0
     },
     {
-        "english": "shallow",
-        "italian": "poco profonda",
+        "english": "ham",
+        "italian": "prosciutto",
         "errors": 0
     },
     {
-        "english": "wide",
-        "italian": "ampio, spazioso",
+        "english": "veal",
+        "italian": "carne di vitello",
         "errors": 0
     },
     {
-        "english": "narrow",
-        "italian": "stretto, limitato",
+        "english": "beaf",
+        "italian": "carne di manzo",
         "errors": 0
     },
     {
-        "english": "smooth",
-        "italian": "liscio, regolare",
+        "english": "tuna",
+        "italian": "tonno",
         "errors": 0
     },
     {
-        "english": "rough",
-        "italian": "ruvido",
+        "english": "shrimp / prawn",
+        "italian": "gambero",
         "errors": 0
     },
     {
-        "english": "trolley",
-        "italian": "carello della spesa",
+        "english": "mussel",
+        "italian": "cozza",
         "errors": 0
     },
     {
-        "english": "suitcase",
-        "italian": "valigia grande",
+        "english": "pea",
+        "italian": "pisello",
         "errors": 0
     },
     {
-        "english": "cabin bag (hand luggage)",
-        "italian": "bagaglio più piccolo",
+        "english": "celery",
+        "italian": "sedano",
         "errors": 0
     },
     {
-        "english": "backpack",
-        "italian": "zaino",
+        "english": "artichoke",
+        "italian": "carciofo",
         "errors": 0
     },
     {
-        "english": "scar",
-        "italian": "cicatrice",
+        "english": "pear",
+        "italian": "pera",
         "errors": 0
     },
     {
-        "english": "livid",
-        "italian": "arrabbiato",
+        "english": "peach",
+        "italian": "pesca",
         "errors": 0
     },
     {
-        "english": "bruise",
-        "italian": "livido",
+        "english": "apricot",
+        "italian": "albicocca",
         "errors": 0
     },
     {
-        "english": "to be into something",
-        "italian": "essere interessato a qualcosa",
-        "errors": 1
-    },
-    {
-        "english": "to be down for something",
-        "italian": "essere d'accordo su qualcosa",
-        "errors": 1
-    },
-    {
-        "english": "to be up to something",
-        "italian": "stare facendo qualcosa",
-        "errors": 1
-    },
-    {
-        "english": "to be off something",
-        "italian": "avere smesso, non volere più",
+        "english": "plum",
+        "italian": "prugna",
         "errors": 0
     },
     {
-        "english": "to be out of something",
-        "italian": "non avere qualcosa",
+        "english": "egg white",
+        "italian": "albume",
         "errors": 0
     },
     {
-        "english": "to be up for something",
-        "italian": "avere voglia di qualcosa",
+        "english": "egg yolk",
+        "italian": "tuorlo",
         "errors": 0
     },
     {
-        "english": "zebra crossing",
-        "italian": "strisce pedonali",
+        "english": "pie",
+        "italian": "crostata",
         "errors": 0
     },
     {
-        "english": "gate",
-        "italian": "cancello",
+        "english": "cocoa",
+        "italian": "cacao",
         "errors": 0
     },
     {
-        "english": "lamppost",
-        "italian": "lampione",
+        "english": "cinnamon",
+        "italian": "cannella",
         "errors": 0
     },
     {
-        "english": "snore",
-        "italian": "russare",
+        "english": "almond",
+        "italian": "mandorla",
         "errors": 0
     },
     {
-        "english": "hiccup",
-        "italian": "singhiozzo",
+        "english": "hezelnut",
+        "italian": "nocciola",
         "errors": 0
     },
     {
-        "english": "pout",
-        "italian": "broncio",
+        "english": "to roast",
+        "italian": "arrostire",
         "errors": 0
     },
     {
-        "english": "moldy",
-        "italian": "ammuffito",
+        "english": "to grill",
+        "italian": "grigliare",
         "errors": 0
     },
     {
-        "english": "rotten",
-        "italian": "marcio",
+        "english": "to hit it off",
+        "italian": "andare subito d'accordo",
         "errors": 0
     },
     {
-        "english": "wilted",
-        "italian": "appassito",
+        "english": "to patch things up",
+        "italian": "ricucire i rapport",
         "errors": 0
     },
     {
-        "english": "globebox",
-        "italian": "cruscotto",
-        "errors": 1
+        "english": "to drift apart",
+        "italian": "allontanarsi l'uno dall'altro",
+        "errors": 0
     },
     {
-        "english": "handbreak",
-        "italian": "freno a mano",
+        "english": "to fall behind",
+        "italian": "restare indietro con qualcosa",
+        "errors": 0
+    },
+    {
+        "english": "to fill in for someone",
+        "italian": "sostituire qualcuno temporaneamente",
+        "errors": 0
+    },
+    {
+        "english": "get off",
+        "italian": "scendere da un mezzo",
         "errors": 0
     }
 ]
